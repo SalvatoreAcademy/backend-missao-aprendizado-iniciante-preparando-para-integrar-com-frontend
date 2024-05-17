@@ -1,2 +1,2 @@
-# backend-missao-aprendizado-iniciante-preparando-para-integrar-com-frontend
+# Backend - Iniciante - Missão de Aprendizado: Preparando para integrar com Frontend
 Projeto da Missão de Aprendizado da profissão Dev Backend JavaScript, nível Iniciante: Preparando para integrar com Frontend.
